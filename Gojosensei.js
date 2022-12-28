@@ -69,7 +69,7 @@ const nexusnw = require('xfarr-api')
       kurangIkan,
       kurangAyam, 
       kurangKelinci, 
-      kurangDomba, 
+      kurangDomba,
       kurangSapi,
       kurangGajah,
       getIkan,
